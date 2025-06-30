@@ -5,7 +5,7 @@ Passionate about building scalable web applications and crafting clean, maintain
 
 ### 🛠 About Me
 
-- 🔭 I’m currently working on: **POS Admin portal((https://admin-login-5bcc9.web.app/))**
+- 🔭 I’m currently working on a personal Ecommerce website
 - 🌱 I’m currently learning: **Web socket, Node.js**
 - 💬 Ask me about: **Web Development, APIs, Open Source**
 - ⚡ Fun fact: I love exploring new frameworks and solving coding challenges.
